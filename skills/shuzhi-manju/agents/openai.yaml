@@ -1,0 +1,6 @@
+interface:
+  display_name: "树枝漫剧"
+  short_description: "连续分镜、提示词与尾帧接力"
+  default_prompt: "Use $shuzhi-manju to turn a Chinese script into continuous 15-second cinematic boards, generation-ready prompts, and a handoff-ready production plan."
+policy:
+  allow_implicit_invocation: true
